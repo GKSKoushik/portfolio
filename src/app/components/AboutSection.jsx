@@ -60,34 +60,7 @@ const TAB_DATA = [
       </ul>
     ),
   },
-  {
-    title: "Certifications",
-    id: "certifications",
-    content: (
-      <ul className="list-none grid grid-cols-2 gap-6 place-items-center">
-        <li>
-          <a
-            href="/certifications/cisco-cert.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-20 h-20 flex items-center justify-center rounded-full bg-black/20 text-blue-600 text-4xl transition duration-300 transform hover:scale-110 hover:shadow-xl hover:shadow-blue-600/50"
-          >
-            <SiCisco />
-          </a>
-        </li>
-        <li>
-          <a
-            href="/certifications/walmart-cert.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-20 h-20 flex items-center justify-center rounded-full bg-black/20 text-[#0071CE] text-4xl transition duration-300 transform hover:scale-110 hover:shadow-xl hover:shadow-[#0071CE]/50"
-          >
-            <SiWalmart />
-          </a>
-        </li>
-      </ul>
-    ),
-  },
+  
 ];
 
 const AboutSection = () => {
