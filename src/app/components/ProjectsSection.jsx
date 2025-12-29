@@ -7,21 +7,21 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "Adaptive Ensemble Contrastive Learning for Vessel Type Recognition	",
-    description: "Developed a vessel image classifier using GANs, transfer learning, and ensemble methods to boost accuracy and optimize training with limited data.",
+    title: "Enhancing Machinery Health through Abnormal Data Detection with ASW and WMLOF",
+    description: "In Machinery Health Monitoring (MHM), accuracy and reliability hinge on detecting abnormal data and enhancing its quality.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/thaheernitturi/ShipClassification",
-    previewUrl: "https://genai-chat.vercel.app",
+    gitUrl: "https://github.com/GKSKoushik/Machine-Health-Monitoring/tree/main",
+    
   },
   {
     id: 2,
-    title: "Paytm Clone",
+    title: "Bird Intrusion Detection",
     description: "A full-stack FinTech clone with wallet, payment gateway, and transaction history.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/thaheernitturi/paytm-clone",
-    previewUrl: "https://github.com/thaheernitturi/paytm-clone",
+    gitUrl: "https://github.com/GKSKoushik/Bird-Intrusion-Detection",
+    
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const projectsData = [
     description: "A stylish personal portfolio to showcase my skills, projects, and contact details.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/thaheernitturi/portfolio",
+    gitUrl: "https://github.com/GKSKoushik/portfolio",
     previewUrl: "/",
   },
   
