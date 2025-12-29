@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Enhancing Machinery Health through Abnormal Data Detection with ASW and WMLOF",
     description: "In Machinery Health Monitoring (MHM), accuracy and reliability hinge on detecting abnormal data and enhancing its quality.",
-    image: "/images/projects/1.png",
+    image: "/images/projects/73z_2202_w009_n001_113b_p14_113.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/GKSKoushik/Machine-Health-Monitoring/tree/main",
     
@@ -18,7 +18,7 @@ const projectsData = [
     id: 2,
     title: "Bird Intrusion Detection",
     description: "A full-stack FinTech clone with wallet, payment gateway, and transaction history.",
-    image: "/images/projects/2.png",
+    image: "/images/projects/5.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/GKSKoushik/Bird-Intrusion-Detection",
     
