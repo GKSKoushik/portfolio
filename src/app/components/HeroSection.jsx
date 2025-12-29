@@ -19,7 +19,7 @@ const HeroSection = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-fuchsia-500 to-pink-600">
               Hello, I&apos;m{" "}
             </span>
-            Thaheer Nitturi
+            Krishna Sree Koushik Ganjikunta
           </h1>
 
           <TypeAnimation
@@ -46,7 +46,7 @@ const HeroSection = () => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/thaheernitturi.pdf"
+              href="/"
               target="_blank"
               className="px-6 py-3 rounded-full bg-gradient-to-br from-purple-500 via-fuchsia-600 to-pink-600 text-white font-semibold shadow-md"
             >
