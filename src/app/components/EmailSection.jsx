@@ -42,7 +42,7 @@ const EmailSection = () => {
           </p>
           <div className="flex gap-6 mt-4 text-3xl">
             <a
-              href="https://github.com/thaheernitturi"
+              href="https://github.com/GKSKoushik"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-transform transform hover:scale-110"
@@ -50,7 +50,7 @@ const EmailSection = () => {
               <FaGithub />
             </a>
             <a
-              href="https://www.linkedin.com/in/thaheernitturi/"
+              href="https://www.linkedin.com/in/krishnasreekoushik/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#0077B5] hover:text-[#005983] transition-transform transform hover:scale-110"
