@@ -46,7 +46,7 @@ const HeroSection = () => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/"
+              href="/Koushik_Resume(FD).pdf"
               target="_blank"
               className="px-6 py-3 rounded-full bg-gradient-to-br from-purple-500 via-fuchsia-600 to-pink-600 text-white font-semibold shadow-md"
             >
