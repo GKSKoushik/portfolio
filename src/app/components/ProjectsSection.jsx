@@ -36,7 +36,7 @@ const projectsData = [
     id: 4,
     title: "Netflix-Clone",
     description: "Netflix-like OTT web app built with React.js, Firebase authentication, React Router, and Axios, featuring reusable components and a scalable UI.",
-    image:  "public/images/projects/netflix.png",
+    image:  "/images/projects/netflix.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/GKSKoushik/NetflixClone",
     previewUrl: "/",
